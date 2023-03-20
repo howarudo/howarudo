@@ -2,7 +2,7 @@
 ### お世話になります！😄
 
 I go by Hidetoshi Tanaka (田中秀俊）in GitHub. Currently a university student in Tokyo 🇯🇵.
-Interested in:
+I am interested in:
 - Data engineering
 - Machine learning
 - Data science
