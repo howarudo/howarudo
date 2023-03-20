@@ -1,4 +1,4 @@
-### Hello!👋 お世話になります！😄
+### Hello! お世話になります！😄
 
 I go by Hidetoshi Tanaka (田中秀俊）in GitHub 🙇‍♂️.<br>
 Currently a university student in Tokyo 🇯🇵.<br>
