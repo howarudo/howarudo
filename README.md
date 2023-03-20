@@ -1,10 +1,10 @@
-## Hello!　お世話になります！
+## Hello!　お世話になります！😄
 
-I go by Hidetoshi Tanaka (田中秀俊）in GitHub. Currently a university student in Tokyo.
+I go by Hidetoshi Tanaka (田中秀俊）in GitHub. Currently a university student in Tokyo 🇯🇵.
 Interested in:
 - Data engineering
 - Machine learning
-- 
+- Data science
 
 <!--
 **Hidetoshi22/Hidetoshi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
