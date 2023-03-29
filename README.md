@@ -1,6 +1,6 @@
 ### Hello! お世話になります！😄
 
-I am Howard T from Indonesia 🙇‍♂️.<br>
+I am Howard from Indonesia 🙇‍♂️.<br>
 Currently a university student in Tokyo 🇯🇵.<br>
 I am interested in:
 - Data engineering
