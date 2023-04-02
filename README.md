@@ -5,7 +5,6 @@ Currently a university student in Tokyo 🇯🇵.<br>
 I am interested in:
 - Data engineering
 - Machine learning
-- Data science
 
 <!--
 **Hidetoshi22/Hidetoshi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
