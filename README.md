@@ -1,10 +1,7 @@
 ### Hello! お世話になります！😄
 
 I am Howard from Indonesia 🙇‍♂️.<br>
-Currently a university student in Tokyo 🇯🇵.<br>
-I am interested in:
-- Data engineering
-- Machine learning
+Currently a university student in Tokyo 🇯🇵
 
 <!--
 **Hidetoshi22/Hidetoshi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
