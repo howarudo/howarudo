@@ -4,7 +4,7 @@
 
 ## About Me
 
-- :school: I'm currently an engineering student in **University of Tokyo**
+- :school: Currently an engineering student in **University of Tokyo**
 - :books: My major is **Electrical and Electronics Engineering**
 - :round_pushpin: Born in Indonesia, currently residing in **Tokyo, Japan**
-- :thinking: I am interested in **Machine Learning, Data Engineering and Math!!**
+- :thinking: Interested in **Machine Learning, Data Engineering and Math**
