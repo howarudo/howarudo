@@ -7,4 +7,8 @@
 - :school: Currently an engineering student in **University of Tokyo**
 - :books: My major is **Electrical and Electronics Engineering**
 - :round_pushpin: Born in Indonesia, currently residing in **Tokyo, Japan**
-- :thinking: Interested in **Machine Learning, Data Engineering and Mathematical Sciences**
+- :thinking: Interested in
+  - **Data Engineering**
+  - **Machine Learning**
+  - **Data-driven Microgrids**
+
