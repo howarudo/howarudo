@@ -10,5 +10,5 @@
 - :thinking: Interested in
   - **Data Engineering**
   - **Machine Learning**
-  - **Data-driven Microgrids**
+
 
