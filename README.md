@@ -5,7 +5,7 @@
 # About Me
 
 - :school: Currently an engineering student in **University of Tokyo**
-- :books: My major is **Electrical and Electronics Engineering**
+- :books: I'm under the faculty of **Electrical Electronics & Information Communications**
 - :round_pushpin: Born in Indonesia, currently residing in **Tokyo, Japan**
 <!---
 - :thinking: Interested in
