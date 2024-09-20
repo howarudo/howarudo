@@ -7,4 +7,4 @@
 - :school: Currently an engineering student in **University of Tokyo**
 - :books: I'm under the faculty of **Electrical Electronics & Information Communications Engineering**
 - :round_pushpin: Born in Indonesia, currently residing in **Tokyo, Japan**
-- :thinking: Interested in applying **Data Eng. & ML** in the **Finance** industry
+- :thinking: Interested in applying **Data Eng. & ML** solutions in the **Finance** industry
